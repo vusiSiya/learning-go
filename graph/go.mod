@@ -1,7 +1,8 @@
-module github.com/vusiSiya/data-structures/graph
+module github.com/vusiSiya/learning-go/graph
 
 go 1.24.1
+<<<<<<< HEAD
+=======
 
-replace github.com/vusiSiya/data-structures/queue v0.0.0 => ../queue
-
-require github.com/vusiSiya/data-structures/queue v0.0.0
+require github.com/vusiSiya/learning-go/queue v0.0.0
+>>>>>>> 41cced81a070cee62ad3bc82e327d5070be97517
