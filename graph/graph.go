@@ -3,7 +3,7 @@ package graph
 import (
 	"slices"
 
-	queue "github.com/vusiSiya/data-structures/queue"
+	queue "github.com/vusiSiya/learning-go/queue"
 )
 
 type Graph[T comparable] struct {
